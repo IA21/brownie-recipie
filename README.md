@@ -3,19 +3,20 @@
 ### ingredients
 
 - 2 eggs (room temp)
-- 2/3c cocoa powder
-- 1c white sugar
+- 100gm baking chocolate
+- 1/2c cocoa powder
+- 3/4c white sugar
 - 1/2c brown sugar
 - 2/3c maida
-- 2/3c oil
+- 1/2c oil
 - vanilla
 - salt
 
 ### steps
 
-1. warm oil and mix cocoa powder in it
+1. chop cooking chocolate, warm oil, mix chocolate & cocoa powder in it
 2. set preheat
-3. oil pan (only oil paper?)
+3. prep pan
 4. blend eggs, vanilla and sugar
 5. pour egg+sugar mixture to oil+cocoa mixture, mix mix mix
 6. add maida and salt to bowl and mix
@@ -26,5 +27,4 @@
 
 - instant coffee?
 - brown butter?
-- melted chocolate?
 - condensed milk?
