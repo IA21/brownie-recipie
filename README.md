@@ -3,28 +3,27 @@
 ### ingredients
 
 - 2 eggs (room temp)
-- 100gm baking chocolate
-- 1/2c cocoa powder
-- 3/4c white sugar
-- 1/2c brown sugar
-- 2/3c maida
-- 1/2c oil
+- 125gm baking chocolate
+- 1/2c (110gm) butter
+- 3/4c (150g) white sugar
+- 1/4c (50g) brown sugar
+- 1/2c (45g) cocoa powder
+- 1/2c (60g) maida
 - vanilla
 - salt
 
 ### steps
 
-1. chop cooking chocolate, warm oil, mix chocolate & cocoa powder in it
-2. set preheat
-3. prep pan
-4. blend eggs, vanilla and sugar
-5. pour egg+sugar mixture to oil+cocoa mixture, mix mix mix
-6. add maida and salt to bowl and mix
-7. pour in pan, spread, sprinkle salt, tap
-8. bake for ~30m on low flame
+1. prep pan / set preheat
+2. brown butter
+3. mix baking chocolate and cocoa powder in browned butter
+6. blend eggs, vanilla and sugar
+7. mix egg+sugar mixture into butter+chocolate mixture
+8. add maida and salt to bowl and mix
+9. pour in pan, spread, sprinkle salt, tap tap tap
+10. bake for ~30m
 
 ### stuff to try
 
 - instant coffee?
-- brown butter?
 - condensed milk?
